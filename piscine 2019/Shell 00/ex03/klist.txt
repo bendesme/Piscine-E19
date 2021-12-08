@@ -1,0 +1,5 @@
+Credentials cache: API:EFF3C6D1-0F37-45A4-A202-70EBDB6C2E36
+        Principal: bdesmet@S19.BE
+
+  Issued                Expires             Flags    Principal
+Oct 28 18:09:14 2019  Oct 29 04:09:14 2019  FPRIA  krbtgt/S19.BE@S19.BE
